@@ -1,2 +1,2 @@
 A simple login page.
-It is created with HTML and CSS
+It is created with HTML and CSS.
